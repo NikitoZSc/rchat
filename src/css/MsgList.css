@@ -1,0 +1,19 @@
+.msg-container{
+    position: fixed;
+    top: 50px;
+    right: 0px;
+    bottom: 50px;
+    width: 75%;
+    padding: 5px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.mf-wrap{
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    width: 75%;
+    height: 50px;
+    padding: 5px;
+}

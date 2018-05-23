@@ -1,0 +1,25 @@
+.overlay{
+    width:100%;
+    height:100%;
+    position: fixed;
+    background-color: #000000;
+}
+.progress-wrap-text{
+    width:100%;
+    margin-top:20%;
+}
+.progress-wrap-img{
+    width:100%;
+    margin-top:10px;
+}
+.progress-wrap-img img{
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+
+.progress-wrap-text h3{
+    margin: 0 auto;
+    text-align: center;
+    color: #fff3cd;
+}

@@ -1,0 +1,33 @@
+.msg-item-wrap{
+}
+.msg-item{
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-radius: 0px 5px 5px 0px;
+    margin-bottom:10px;
+    float:left;
+}
+.msg-author-wrap{
+
+}
+.msg-author{
+    font-size:90%;
+    color: #383d41;
+}
+.msg-body-wrap{
+
+}
+.msg-body{
+
+}
+.msg-ts-wrap{
+    text-align: right;
+}
+.msg-ts{
+    font-size: 70%;
+    color: #4e555b;
+}
+.clear{
+    float: none;
+    clear: both;
+}
